@@ -6,8 +6,11 @@
 
 > ​	ip.txt中放入需要爆破的ip+端口，比如 10.10.10.10:3306。  如果不是标准端口，比如3307是MYSQL。写成 10.10.10.10:3306|MYSQL。 其他 FTP/SSH/SMB/MSSQL/MYSQL/POSTGRESQL/MONGOD同理
 >
-> ​	Windows/MAC/Linux已经打包好了。无论是内网渗透，还是日常使用，直接下载下来就可以直接用。
-https://github.com/awake1t/PortBrute/blob/master/common/example.png
+> ​	Windows/MAC/Linux已经打包好了，分别对应(PortBruteWin.exe/PortBruteMac/PortBruteLinux)。无论是内网渗透，还是日常使用，直接下载下来就可以直接用。
+
+![image](https://github.com/awake1t/PortBrute/blob/master/common/example1.png)
+![image](https://github.com/awake1t/PortBrute/blob/master/common/example.png)
+
 
 ### 快速开始
 
